@@ -1,1 +1,0 @@
-This is my first Dapp with functionality of transfering tokens and deposit, withdraw functions in the app works in real time for staking purpose
